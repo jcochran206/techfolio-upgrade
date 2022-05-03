@@ -1,0 +1,12 @@
+:root {
+    --pri-color: #fff;
+    --sec-color: #333;
+    --accent-color: #fefefe;
+    --bg-color:#efefef;
+    --text-color: #222;
+    --alt-text-color: #222;
+}
+
+.body {
+    background-color: #fff;
+}
