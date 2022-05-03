@@ -8,5 +8,8 @@ This site is meant to be upgraded overtime.  Version one is intend to utilize li
 - ES6 (JS)
 - Flex 
 
+## Dependencies
+- fontawesome
+
 ## Author
 :wave: Jonathan Cochran 2022
