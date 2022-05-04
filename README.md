@@ -10,6 +10,7 @@ This site is meant to be upgraded overtime.  Version one is intend to utilize li
 
 ## Dependencies
 - fontawesome
+- Google Fonts
 
 ## Author
 :wave: Jonathan Cochran 2022
