@@ -16,6 +16,9 @@ This site is meant to be upgraded overtime. This version two (June 2022). I inte
 - Google Fonts
 - Sanity CLI
 - framer-motion
+- Node-sass
+
+
 
 ## Author
 :wave: Jonathan Cochran 2022
