@@ -10,11 +10,16 @@ import sass from '../assets/sass.png';
 
 //header images
 import profile from '../assets/profile.png';
-import profile2 from '../assets/profile2.png'
+import profile2 from '../assets/profile2.png';
+import profile3 from '../assets/profile3.png';
 import circle from '../assets/circle.svg';
 
 //Companies
 import amazon from '../assets/amazon.png';
+
+//Icons
+import phone from '../assets/phone.svg';
+import email from '../assets/email.svg'
 
 
 export default {
@@ -28,6 +33,9 @@ export default {
     sass,
     profile,
     profile2,
+    profile3,
     circle,
     amazon,
+    phone,
+    email,
 };

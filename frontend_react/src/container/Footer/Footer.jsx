@@ -43,13 +43,10 @@ return (
       <div className="app__footer-cards">
         <div className="app__footer-card">
           <img src={images.email} alt="email" />
-          <a href="mailto:hello@micael" className='p-text'>Hello@micael.com</a>
+          <a href="mailto:jonathan.o.cochran@codingmajor.com" className='p-text'>jonathan.o.cochran@codingmajor.com</a>
         </div>
 
-        <div className="app__footer-card">
-          <img src={images.mobile} alt="mobile" />
-          <a href="tel: +1 (123) 456 7890" className='p-text'>+1 (123) 456 7890</a>
-        </div>
+        
       </div>
       {!isFormSubmitted ? 
       <div className="app__footer-form app__flex">
