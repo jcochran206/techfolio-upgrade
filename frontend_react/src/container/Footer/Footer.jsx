@@ -38,15 +38,13 @@ const handleSubmit = () => {
  
 return (
     <>
-      <h2 className="head-text">Take a coffee & chat with me</h2>
+      <h2 className="head-text">Let's grab a coffee & chat with me</h2>
 
       <div className="app__footer-cards">
         <div className="app__footer-card">
           <img src={images.email} alt="email" />
           <a href="mailto:jonathan.o.cochran@codingmajor.com" className='p-text'>jonathan.o.cochran@codingmajor.com</a>
         </div>
-
-        
       </div>
       {!isFormSubmitted ? 
       <div className="app__footer-form app__flex">
@@ -79,6 +77,6 @@ return (
 
 export default AppWrap(
   MotionWrap(Footer, 'app__footer'), 
-  'footer',
+  'contact',
   'app__whitebg',
 )
