@@ -29,3 +29,6 @@ The Backend is built using Sanity.  The following commands are needed for use:
 
 ## Author
 :wave: Jonathan Cochran 2022
+
+## Live site 
+[live](https://codingmajor.com) - Portfolio
